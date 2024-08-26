@@ -5,7 +5,7 @@ Dalia Gomez - Module 10 Challenge: Object-Oriented Programming, SVG Logo Generat
 The purpose of this challenge was to build a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file. 
 
 ## Links
-- URL of the GitHub repository that contains the code: https://github.com/dali-gogo/DIGG-Module10-TheLogoGenerator
+URL of the GitHub repository that contains the code: https://github.com/dali-gogo/DIGG-Module10-TheLogoGenerator
 
 ## Usage
 The user can select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.
