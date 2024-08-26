@@ -2,6 +2,6 @@
 
   <polygon points="150, 18 244, 182 56, 182" fill="bisque" />
 
-  <text x="150" y="150" font-size="60" text-anchor="middle" fill="#3a0467">SVG</text>
+  <text x="150" y="150" font-size="60" text-anchor="middle" fill="#3a0467">Triangle</text>
 
 </svg>
