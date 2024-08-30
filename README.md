@@ -16,7 +16,7 @@ I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
 
 ## Credits
-Challenge 10 is part of the workload from Boot Camp Spot, Bootcamp Code TDM-VIRT-FSF-PT-03-2024-U-LOLC-MTTH. No starter code was provided to perform this challenge.
+Challenge 10 is part of the workload from Boot Camp Spot, Bootcamp Code TDM-VIRT-FSF-PT-03-2024-U-LOLC-MTTH. No starter code was provided to perform this challenge. This challenge was performed with the guidance of my bootcamp instructor and with help from fellow classmates in study groups. 
 
 ## License
 MIT License used for the corresponding repository.
